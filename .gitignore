@@ -1,0 +1,16 @@
+# Virtual Environment
+/venv/
+/shap/venv
+
+# Other
+.DS_Store
+src/__pycache__/
+src/css/__pycache__/
+/.vscode
+
+/tuning/data/
+/tuning/results/
+
+#pycache
+/tuning/__pycache__/
+/tuning/css/__pycache__/
